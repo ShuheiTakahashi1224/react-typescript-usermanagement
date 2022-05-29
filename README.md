@@ -1,2 +1,2 @@
-# react-typescript-usermanagement
+# react-typescript-app
 Created with CodeSandbox
